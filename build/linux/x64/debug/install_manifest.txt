@@ -1,0 +1,15 @@
+/home/student/FLUTTER/pokemon_app/build/linux/x64/debug/bundle/pokemon_app
+/home/student/FLUTTER/pokemon_app/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/student/FLUTTER/pokemon_app/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/student/FLUTTER/pokemon_app/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin.json
+/home/student/FLUTTER/pokemon_app/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/student/FLUTTER/pokemon_app/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/student/FLUTTER/pokemon_app/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/student/FLUTTER/pokemon_app/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES
+/home/student/FLUTTER/pokemon_app/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/student/FLUTTER/pokemon_app/build/linux/x64/debug/bundle/data/flutter_assets/NativeAssetsManifest.json
+/home/student/FLUTTER/pokemon_app/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/student/FLUTTER/pokemon_app/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/student/FLUTTER/pokemon_app/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/student/FLUTTER/pokemon_app/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/student/FLUTTER/pokemon_app/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
