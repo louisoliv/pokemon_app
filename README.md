@@ -2,6 +2,27 @@
 
 This project is a Flutter application that displays the first 151 Pokémon along with their details. It fetches data from an API and presents Pokémon information in an interactive UI.
 
+## Results
+
+The project looks like this :
+
+<div align="center">
+
+![Image1](/illustrations/pokemon_project1.png)
+
+ <p><em>Image 1: A small vue of the home page <em></p>
+
+</div>
+
+<div align="center">
+
+![Image2](/illustrations/pokemon_project2.png)
+
+<p><em>Image 2: The details of a specific pokemon
+<em></p>
+
+</div>
+
 ## Prerequisites
 
 Before running this project, ensure you have the following installed:
